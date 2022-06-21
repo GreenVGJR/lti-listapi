@@ -37,7 +37,7 @@ Shortcut:
 - https://apiv1.snoozeds.repl.co
 - https://shot-on-iphone.studio/api/video
 - https://api.kazdev.ml
-- https://app.resetxd.repl.co
+- https://api.resetxd.xyz
 - https://cryptons-api.herokuapp.com
 - https://spapi.ga
 - https://vslapi.cf/endpoints
